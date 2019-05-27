@@ -2,3 +2,6 @@
 
 TwitterSentimentAnalysis/keys.py
 TwitterSentimentAnalysis/test.csv
+
+*.pyc
+__pycache__/
