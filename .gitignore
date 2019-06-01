@@ -2,6 +2,7 @@
 
 TwitterSentimentAnalysis/keys.py
 TwitterSentimentAnalysis/test.csv
+PredictingStockPrices/keys.py
 
 *.pyc
 */*.pyc
